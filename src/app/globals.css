@@ -13,3 +13,16 @@
     --foreground: #ededed;
   }
 }
+
+body,
+html {
+  height: 100%;
+  background-color: #1a0928;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  height: 100%;
+}
