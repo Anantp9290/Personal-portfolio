@@ -1,7 +1,13 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  // images: {
+  //   domains: ["example.com"],
+  // },
+  // env: {
+  //   API_URL: process.env.API_URL,
+  // },
+  // reactStrictMode: true,
 };
 
 export default nextConfig;
