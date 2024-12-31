@@ -1,5 +1,4 @@
 import Image from "next/image";
-import Icon from "../icon-component/icon";
 
 export default function Sidebar() {
   return (
