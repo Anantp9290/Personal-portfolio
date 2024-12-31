@@ -2,7 +2,7 @@ export default function Navbar() {
   return (
     <>
       <header className="mt-6">
-        <div className="container mx-auto">
+        <div className="container mx-auto px-5 sm:px-0">
           <div className="flex justify-between items-center bg-[var(--background)] rounded p-5">
             {/* <img src="image" alt="logo" /> */}
             <p>image</p>
