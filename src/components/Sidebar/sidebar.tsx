@@ -5,7 +5,7 @@ export default function Sidebar() {
     <>
       <div className="bg-[var(--darkblue)] max-w-full md:max-w-[300px] w-full h-full pb-3 relative md:sticky top-0 z-20">
         <div className="max-w-full w-full flex flex-col gap-3">
-          <img
+          <Image width={180} height={180} alt="image"
             src="https://www.w3schools.com/w3images/avatar_hat.jpg"
             className="max-w-full max-h-[180px] object-cover w-full"
           />
