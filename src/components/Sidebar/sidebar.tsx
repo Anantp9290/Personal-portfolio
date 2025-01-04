@@ -18,7 +18,7 @@ export default function Sidebar() {
           <div className="flex gap-3 justify-center border-b border-red-100 pb-5 mx-3">
             <div className="w-[30px] h-[30px] flex justify-center items-center rounded-full bg-[var(--background)] cursor-pointer hover:-translate-y-2 transition-all duration-1000 ease-in-out">
               <Image
-                src="/assets/Images/linkedin.svg"
+                src="/assets/images/linkedin.svg"
                 width={20}
                 height={20}
                 alt="linkdin"
@@ -26,7 +26,7 @@ export default function Sidebar() {
             </div>
             <div className="w-[30px] h-[30px] flex justify-center items-center rounded-full bg-[var(--background)] cursor-pointer hover:-translate-y-2 transition-all duration-1000 ease-in-out">
               <Image
-                src="/assets/Images/github.svg"
+                src="/assets/images/github.svg"
                 width={20}
                 height={20}
                 alt="linkdin"
@@ -34,7 +34,7 @@ export default function Sidebar() {
             </div>
             <div className="w-[30px] h-[30px] flex justify-center items-center rounded-full bg-[var(--background)] cursor-pointer hover:-translate-y-2 transition-all duration-1000 ease-in-out">
               <Image
-                src="/assets/Images/codepen.svg"
+                src="/assets/images/codepen.svg"
                 width={20}
                 height={20}
                 alt="linkdin"
@@ -56,7 +56,7 @@ export default function Sidebar() {
             <div className="flex gap-3 items-center">
               <div className="w-[30px] h-[30px] rounded-lg flex justify-center items-center bg-[var(--foreground)]">
                 <Image
-                  src="/assets/Images/location.svg"
+                  src="/assets/images/location.svg"
                   width={18}
                   height={18}
                   alt="linkdin"
@@ -70,7 +70,7 @@ export default function Sidebar() {
             <div className="flex gap-3 items-center">
               <div className="w-[30px] h-[30px] rounded-lg flex justify-center items-center bg-[var(--foreground)]">
                 <Image
-                  src="/assets/Images/phone.svg"
+                  src="/assets/images/phone.svg"
                   width={18}
                   height={18}
                   alt="linkdin"
@@ -87,7 +87,7 @@ export default function Sidebar() {
             <div className="flex gap-3 items-center">
               <div className="w-[30px] h-[30px] rounded-lg flex justify-center items-center bg-[var(--foreground)]">
                 <Image
-                  src="/assets/Images/mail.svg"
+                  src="/assets/images/mail.svg"
                   width={18}
                   height={18}
                   alt="linkdin"
@@ -103,7 +103,7 @@ export default function Sidebar() {
             <div className="flex gap-3 items-center">
               <div className="w-[30px] h-[30px] rounded-lg flex justify-center items-center bg-[var(--foreground)]">
                 <Image
-                  src="/assets/Images/birthday.svg"
+                  src="/assets/images/birthday.svg"
                   width={18}
                   height={18}
                   alt="linkdin"
