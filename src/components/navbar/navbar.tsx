@@ -15,7 +15,7 @@ export default function Navbar() {
               <span className="absolute bottom-0 right-0 w-0 h-[2px] bg-transparent transition-all duration-1000 ease-in-out group-hover:w-full group-hover:bg-[var(--darkblue)]"></span>
               <span className="absolute bottom-0 left-0 w-[2px] h-0 bg-transparent transition-all duration-1000 ease-in-out group-hover:h-full group-hover:bg-[var(--darkblue)]"></span>
               <span className="absolute bottom-0 right-0 w-[2px] h-0 bg-transparent transition-all duration-1000 ease-in-out group-hover:h-full group-hover:bg-[var(--darkblue)]"></span>
-              <span className="relative z-1">Download CV</span>
+              <span className="relative z-1">Download cv</span>
             </button>
           </div>
         </div>
