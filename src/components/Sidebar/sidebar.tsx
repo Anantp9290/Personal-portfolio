@@ -5,7 +5,10 @@ export default function Sidebar() {
     <>
       <div className="bg-[var(--darkblue)] max-w-full md:max-w-[300px] w-full h-full pb-3 relative md:sticky top-0 z-20">
         <div className="max-w-full w-full flex flex-col gap-3">
-          <Image width={180} height={180} alt="image"
+          <Image
+            width={180}
+            height={180}
+            alt="image"
             src="https://www.w3schools.com/w3images/avatar_hat.jpg"
             className="max-w-full max-h-[180px] object-cover w-full"
           />
@@ -110,7 +113,7 @@ export default function Sidebar() {
                 />
               </div>
               <p className="text-white text-base relative after:absolute after:-bottom-1 after:left-0  after:border-b border-white after:w-0 hover:after:w-full hover:after:transition-all hover:after:duration-1000 hover:after:ease-in-out cursor-default">
-                30-05-2000
+                05-02-1955
               </p>
             </div>
           </div>
