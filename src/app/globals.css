@@ -28,3 +28,10 @@ html {
   flex: 1;
   height: 100%;
 }
+
+.svg-animation {
+  fill: #1a0928;
+  stroke: #1a0928;
+  stroke-width: 0;
+  stroke-dasharray: 500;
+}
