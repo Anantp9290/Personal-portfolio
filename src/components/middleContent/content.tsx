@@ -92,7 +92,7 @@ export default function Content() {
         </div>
 
         {/* Experince section */}
-        {/* <div className="flex flex-col gap-3">
+        <div className="flex flex-col gap-3">
           <div className="flex gap-4 justify-between items-center">
             <p className="text-2xl font-bold text-white">Experience</p>
             <div className="flex-1 border border-[var(--bluelight)]"></div>
@@ -167,7 +167,7 @@ export default function Content() {
               </div>
             </div>
           </div>
-        </div> */}
+        </div>
       </div>
     </>
   );
