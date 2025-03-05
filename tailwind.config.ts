@@ -14,11 +14,11 @@ export default {
       },
       keyframes: {
         fadeInRight: {
-          "0%": { opacity: "0", transform: "translateX(20px)" },
+          "0%": { opacity: "0", transform: "translateX(50px)" },
           "100%": { opacity: "1", transform: "translateX(0)" },
         },
         fadeInLeft: {
-          "0%": { opacity: "0", transform: "translateX(-20px)" },
+          "0%": { opacity: "0", transform: "translateX(-50px)" },
           "100%": { opacity: "1", transform: "translateX(0)" },
         },
         line: {
@@ -27,9 +27,9 @@ export default {
         },
       },
       animation: {
-        fadeInRight: "fadeInRight 0.5s ease-out",
-        fadeInLeft: "fadeInLeft 0.5s ease-out",
-        line: "line 0.5s ease-out forwards",
+        fadeInRight: "fadeInRight 10s ease-out",
+        fadeInLeft: "fadeInLeft 10s ease-out",
+        line: "line 10s ease-out forwards",
       },
     },
   },
