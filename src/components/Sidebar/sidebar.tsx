@@ -10,7 +10,7 @@ export default function Sidebar() {
             height={180}
             alt="image"
             src="https://www.w3schools.com/w3images/avatar_hat.jpg"
-            className="max-w-full max-h-[180px] object-cover w-full"
+            className="max-w-full max-h-[180px] object-cover w-auto h-auto"
           />
           <p className="text-white text-center text-2xl font-medium">
             John Walks
