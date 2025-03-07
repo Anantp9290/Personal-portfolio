@@ -32,6 +32,6 @@ html {
 .svg-animation {
   fill: #1a0928;
   stroke: #1a0928;
-  stroke-width: 0;
+  stroke-width: 0.1;
   stroke-dasharray: 500;
 }

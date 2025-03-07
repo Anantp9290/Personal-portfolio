@@ -37,7 +37,7 @@ export default {
           "75%": { fillOpacity: "0.8" },
           "100%": {
             strokeDashoffset: "0",
-            strokeWidth: "0",
+            strokeWidth: "1",
             fillOpacity: "1",
             fill: "#1a0928",
           },
