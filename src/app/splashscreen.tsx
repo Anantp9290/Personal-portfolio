@@ -25,7 +25,7 @@ export default function SplashWrapper({
   return (
     <>
       {showSplash ? (
-        <div className="flex items-center justify-center h-screen w-full bg-[#241f40] text-white text-3xl font-bold">
+        <div className="flex items-center justify-center h-full w-full bg-[#241f40] text-white text-3xl font-bold">
           Loading{dots}
         </div>
       ) : (
