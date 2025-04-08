@@ -18,7 +18,7 @@ export default function SplashWrapper({
   }, []);
 
   useEffect(() => {
-    const timer = setTimeout(() => setShowSplash(false), 5000); // Show splash for 10 seconds
+    const timer = setTimeout(() => setShowSplash(false), 5000);
     return () => clearTimeout(timer);
   }, []);
 
