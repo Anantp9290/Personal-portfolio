@@ -12,7 +12,7 @@ export default function Content() {
         {/* what iam doing  */}
         <Whatdoing />
         {/* Experince section */}
-        <Experience />
+        {/* <Experience />/ */}
         {/* technology Section */}
         <Technology />
       </div>
